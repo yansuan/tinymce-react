@@ -9669,9 +9669,9 @@ tiny-emitter@^2.0.0:
   integrity sha512-NB6Dk1A9xgQPMoGqC5CVXn123gWyte215ONT5Pp5a0yt4nlEoO1ZWeCwpncaekPHXO60i47ihFnZPiRPjRMq4Q==
 
 tinymce@^5.0.4:
-  version "5.0.9"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.0.9.tgz#6b0de641b4ac97d08ec1970d31166764237789d8"
-  integrity sha512-c8rau5JGzqDK0XUoZHlokl1KmoQOLWtvkoRIXLINzvrVtXc8LYSev6u/t1uxOu9NXccC1jWabKmRAaa1TsPwvw==
+  version "5.7.1"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.7.1.tgz#658a6fb4c7d53a8496cc00f8da33f4b8290da06d"
+  integrity sha512-1gY8RClc734srSlkYwY0MQzmkS1j73PuPC+nYtNtrrQVPY9VNcZ4bOiRwzTbdjPPD8GOtv6BAk8Ww/H2RiqKpA==
 
 tmp@0.0.30:
   version "0.0.30"
